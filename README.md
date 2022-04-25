@@ -1,4 +1,4 @@
-Api que lista repositorios github pelo nome de usuario !
+Aplicação web que lista repositorios github pelo nome de usuario !
 ------------------------------------------------------------------
 🚀 Como executar
 ------------------------------------------------------------------
