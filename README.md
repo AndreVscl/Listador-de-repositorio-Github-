@@ -1,8 +1,4 @@
 Api que lista repositorios github pelo nome de usuario !
-
-
-
-
 🚀 Como executar
 Clone o repositório
 Instale as dependências com npm
